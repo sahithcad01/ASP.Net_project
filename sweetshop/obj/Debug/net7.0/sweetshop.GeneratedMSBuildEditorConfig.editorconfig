@@ -12,7 +12,7 @@ build_property.RootNamespace = sweetshop
 build_property.ProjectDir = C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\ASP.Net_project\sweetshop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\sahithcad01\Desktop\CADBATCH\PROJECT\ASP.Net_project\sweetshop
 build_property._RazorSourceGeneratorDebug = 
 
@@ -22,6 +22,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/sahithcad01/Desktop/CADBATCH/PROJECT/ASP.Net_project/sweetshop/Views/Home/Allproducts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxwcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sahithcad01/Desktop/CADBATCH/PROJECT/ASP.Net_project/sweetshop/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sahithcad01/Desktop/CADBATCH/PROJECT/ASP.Net_project/sweetshop/Views/Home/Contactus.cshtml]

@@ -18,7 +18,27 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult Aboutus()
+    {
+        return View();
+    }
+
+    public IActionResult Sweets()
+    {
+        return View();
+    }
+
+    public IActionResult Snacks()
+    {
+        return View();
+    }
+
+    public IActionResult Allproducts()
+    {
+        return View();
+    }
+
+    public IActionResult Cart()
     {
         return View();
     }
@@ -27,7 +47,18 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult Aboutus()
+
+    public IActionResult Privacy()
+    {
+        return View();
+    }
+
+    public IActionResult Login()
+    {
+        return View();
+    }
+
+    public IActionResult Register()
     {
         return View();
     }
