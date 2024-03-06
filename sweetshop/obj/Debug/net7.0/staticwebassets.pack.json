@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\ASP.Net_project\\sweetshop\\wwwroot\\images\\ssslogo.png",
+      "PackagePath": "staticwebassets\\images\\ssslogo.png"
+    },
+    {
       "Id": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\ASP.Net_project\\sweetshop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
