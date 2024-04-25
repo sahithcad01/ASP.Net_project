@@ -19,15 +19,14 @@ sno int not null  primary key identity(1,1),
  
 select * from sss_usr_reg;
 
- 
+drop table sss_usr_login;
+
 create table sss_usr_login(
  sno int not null primary key,
- Usr_Name varchar(100) not null,
- Password varchar(15) not null,
- New_Password varchar(15),
- confirm_Password varchar(15) not null,
- modified_by varchar(100) not null,
- modified_on datetime not null,
+ username varchar(100) not null,
+ password varchar(15) not null,
+ old_password varchar(15),
+ new_password varchar(15),
  foreign key (sno) references sss_usr_reg(sno)
  );
  
